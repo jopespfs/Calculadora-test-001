@@ -34,7 +34,7 @@ body{
 
 #previous-operation,
 #current-operation{
-  min-height: 1.6rem;
+  min-height: 4rem;
   padding: 0.2rem;
   overflow-wrap: break-word;
 }
